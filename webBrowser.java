@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * windows.  The program ends when all windows have been closed.
  * The windows are of type BrowserWindow.  The program also requires
  * the class SimpleDialogs.  The first window, which opens when the
- * program starts, goes to "https://www.core2web.in/privacypolicy.html.
+ * program starts, goes to "google.com".
  */
 public class webBrowser extends Application {
 
