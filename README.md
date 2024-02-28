@@ -44,6 +44,9 @@ To use WebBrowser, follow these simple steps:
 
 3. Enjoy a seamless browsing experience with the responsive user interface.
 
+![Alt Text](https://github.com/atharvtem/WebBrowser/blob/main/googless.png)
+![Alt Text](https://github.com/atharvtem/WebBrowser/blob/main/youtubess.png)
+
 ## Contributing
 
 Contributions to WebBrowser are welcome! If you'd like to contribute, please follow these guidelines:
