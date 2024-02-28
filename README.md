@@ -29,10 +29,10 @@ To use WebBrowser, follow these simple steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/WebBrowser.git
+    git clone (https://github.com/atharvtem/WebBrowser.git)
     ```
 
-2. Open the project in your preferred Java IDE.
+2. Open the project in your preferred Java IDE(VS Code preferred).
 
 3. Build and run the project.
 
